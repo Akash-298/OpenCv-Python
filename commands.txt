@@ -1,0 +1,5 @@
+ conda create --name virtualenv python=3.8
+conda activate virtualenv
+pip install opencv-contrib-python
+python
+import cv2
